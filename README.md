@@ -58,6 +58,24 @@ Sensores → ESP32 → SIM800L → Servidor central → ML + API → Web/App
 
 ---
 
+## 🛠️ Planos y Renders del Proyecto
+
+Explora los diseños clave del sistema, desde el hardware hasta la carcasa. ¡Todo pensado para facilitar la implementación y el montaje! 🧩🔧
+
+### 📐 Diseño Electrónico y Energético
+- [📄 Circuito General](./Planos/Circuito.jpeg)  
+- [🔋 Panel Solar y Gestión Energética](./Planos/ACOFIPanelSolar.jpg)  
+- [⚙️ Diagrama de Hardware Completo](./Planos/ACOFIDise±oHardware.jpg)
+
+### 🧱 Renders 3D y PCB
+> Ubicados en `./Planos/Renders/` 🎨
+
+- [🧊 Carcasa Exterior](./Planos/Renders/ACOFICarcasa.png)
+- [🔍 Vista Completa + Corte de Carcasa](./Planos/Renders/ACOFICarcasaCompletayCorte.png)
+- [📦 PCB Renderizado](./Planos/Renders/ACOFIPBC.png)
+
+---
+
 ## ❤️ Impacto
 
 > En Colombia, más de **15.600 muertes al año** están relacionadas con la mala calidad del aire. Este sistema busca **democratizar el monitoreo ambiental**, permitiendo despliegues en zonas rurales y urbanas, y brindando datos valiosos a ciudadanos, autoridades e investigadores. 📡🌳
